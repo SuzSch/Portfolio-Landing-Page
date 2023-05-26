@@ -6,8 +6,19 @@
 }
 
  .flowers {
-  background-image: url("../images/wildflowers.jpeg");
-  width: 100%;
+    background-image: url("../images/wildflowers.jpeg"); size: 3000px;
+    width: 100%;
   
 }
 
+.sidebar {
+  float: right;
+  width: 50%;
+  background-color: rgb(212, 204, 220);
+}
+
+.about-me {
+  margin-left: auto; margin-right: auto;
+  box-shadow: 10px; color: rgb(73, 43, 100);
+  padding: 20px;
+}
