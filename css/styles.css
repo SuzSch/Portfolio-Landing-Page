@@ -2,13 +2,16 @@
   text-align: center;
   border: 5px dotted rgb(74, 4, 74);
   background-color: rgb(187, 158, 214);
-
 }
 
  .flowers {
     background-image: url("../images/wildflower-background.jpeg");
     width: 100%;
-  
+}
+
+.r-column {
+  width: 400px;
+  float: right;
 }
 
 .sidebar {
@@ -21,4 +24,9 @@
   margin-left: auto; margin-right: auto;
   box-shadow: 10px; color: rgb(73, 43, 100);
   padding: 20px;
+}
+
+.new-skills {
+  background-color: rgb(226, 127, 160);
+  font-style: italic;
 }
