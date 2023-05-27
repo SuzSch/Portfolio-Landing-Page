@@ -18,6 +18,7 @@
   float: right;
   width: 50%;
   background-color: rgb(212, 204, 220);
+  margin-right: 20px;
 }
 
 .about-me {
@@ -30,3 +31,4 @@
   background-color: rgb(226, 127, 160);
   font-style: italic;
 }
+
