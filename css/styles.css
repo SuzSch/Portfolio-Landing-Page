@@ -1,13 +1,5 @@
-.center {
-  text-align: center;
-  background-color: rgba(187, 158, 214, 0.648);
-  padding: 10px;
-  font-family: Georgia;
-  font-size: xx-large;
-  background-size: contain;
-}
 
- .flowers {
+.flowers {
     background-image: url("../images/wildflower-background.jpeg");
     width: 100%;
 }
@@ -19,12 +11,6 @@
   margin-right: 20px;
 }
 
-.about-me {
-  margin-left: auto; margin-right: auto;
-  box-shadow: 10px; color: rgb(73, 43, 100);
-  padding: 20px;
-}
-
 .new-skills {
   background-color: rgb(226, 127, 160);
   font-style: italic;
@@ -33,21 +19,15 @@
 .l-column {
   width: 50%;
   float: left;
-  background-color: rgba(73, 43, 100, 0.622);
   text-align: center;
   padding: 20px;
-  font-size: 200%;
-  margin: 20px;
 }
 
 .r-column {
   width: 50%;
   float: right;
-  background-color: rgba(73, 43, 100, 0.622);
   text-align: center;
   padding: 20px;
-  font-size: 200%;
-  margin: 20px;
 }
 .photo {
   display: block;
@@ -57,5 +37,15 @@
 }
 
 img {
-  border: 1in; color: rgb(32, 3, 47);
+  border: 10px solid rgba(73, 43, 100, 0.816); 
+}
+
+.heading {
+  text-align: center;
+  background-color: rgba(73, 43, 100, 0.622);
+  padding: 10px;
+  font-family: Georgia;
+  font-size: 200%;
+  background-size: contain;
+  margin: 20px;
 }
