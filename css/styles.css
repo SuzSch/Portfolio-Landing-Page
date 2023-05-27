@@ -1,7 +1,12 @@
 
 .flowers {
     background-image: url("../images/wildflower-background.jpeg");
-    width: 100%;
+    padding: 20px;
+}
+
+.matrix {
+  background-image: url("../images/matrix.gif");
+  padding: 20px;
 }
 
 .sidebar {
@@ -13,7 +18,6 @@
 
 .new-skills {
   background-color: rgb(226, 127, 160);
-  font-style: italic;
 }
 
 .l-column {
@@ -63,4 +67,9 @@ h3 {
   text-align: center;
   font-size: x-large;
   color: rgb(41, 9, 71);
+}
+
+p {
+font-size: larger;
+
 }
