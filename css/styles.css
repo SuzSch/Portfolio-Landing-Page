@@ -1,7 +1,10 @@
 .center {
   text-align: center;
-  border: 5px dotted rgb(74, 4, 74);
-  background-color: rgb(187, 158, 214);
+  background-color: rgba(187, 158, 214, 0.648);
+  padding: 10px;
+  font-family: Georgia;
+  font-size: xx-large;
+  background-size: contain;
 }
 
  .flowers {
