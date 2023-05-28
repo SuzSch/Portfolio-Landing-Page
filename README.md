@@ -17,11 +17,11 @@ This website tells you a little more about me and the projects I have worked on 
 
 ## Setup/Installation Requirements
 
-* Open the website and enjoy! 😊
+* Open the [website](https://suzsch.github.io/Portfolio-Landing-Page/) and enjoy! 😊
 
 ## Known Bugs
 
-* Currently not super readable on smaller viewports but hope to make that change soon.
+* No know bugs.
 
 ## License
 
