@@ -1,8 +1,8 @@
 
 .flowers {
-    background-image: url("../images/wildflower-background.jpeg");
-    padding: 20px;
-    background-size: cover;
+  background-image: url("../images/wildflower-background.jpeg");
+  padding: 20px;
+  background-size: cover;
 }
 
 .clouds {
@@ -13,10 +13,10 @@
 }
 
 .sidebar {
-  float: right;
-  width: 50%;
-  background-color: rgb(212, 204, 220);
-  margin-right: 20px;
+  width: 130px;
+  position: absolute ;
+  z-index: 1;
+  padding: 8px 0;
 }
 
 .new-skills {
@@ -54,7 +54,6 @@ img {
   font-size: 200%;
   margin: 20px;
   background-color: rgba(73, 43, 100, 0.816);
-  
 }
 
 .peachy {
