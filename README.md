@@ -17,7 +17,7 @@ This website tells you a little more about me and the projects I have worked on 
 
 ## Setup/Installation Requirements
 
-* Open the website and enjoy 😊! 
+* Open the website and enjoy! 😊
 
 ## Known Bugs
 

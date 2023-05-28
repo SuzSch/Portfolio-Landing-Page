@@ -2,10 +2,13 @@
 .flowers {
     background-image: url("../images/wildflower-background.jpeg");
     padding: 20px;
+    background-size: cover;
 }
 
-.matrix {
-  background-image: url("../images/matrix.gif");
+.clouds {
+  background-image: url("../images/peach-waves.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 20px;
 }
 
@@ -46,12 +49,11 @@ img {
 
 .heading {
   text-align: center;
-  background-color: rgba(73, 43, 100, 0.622);
   padding: 10px;
   font-family: Georgia;
   font-size: 200%;
-  background-size: contain;
   margin: 20px;
+  background-color: rgba(73, 43, 100, 0.816);
   
 }
 
@@ -71,5 +73,4 @@ h3 {
 
 p {
 font-size: larger;
-
 }
