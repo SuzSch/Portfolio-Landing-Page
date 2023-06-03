@@ -1,6 +1,6 @@
 ![Suzanne Schuber smiling in the snow](images/suz-in-Norway.jpg)
 
-# Portfolio Landing Page
+# [Portfolio Landing Page](https://suzsch.github.io/Portfolio-Landing-Page/)
 
 #### By Suzanne Schuber
 
@@ -17,7 +17,9 @@ This website tells you a little more about me and the projects I have worked on 
 
 ## Setup/Installation Requirements
 
-* Open the [website](https://suzsch.github.io/Portfolio-Landing-Page/) and enjoy! 😊
+* Clone this repository to your desktop.
+* Navigate to the top level on the directory.
+* Open index.html in your browser.
 
 ## Known Bugs
 
